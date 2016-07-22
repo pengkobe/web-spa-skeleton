@@ -1,0 +1,23 @@
+{
+  "name": "web-spa-skeleton",
+  "version": "0.1.0",
+  "description": "learn summary practice for fe architect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pengkobe/web-spa-skeleton.git"
+  },
+  "keywords": [
+    "webapp",
+    "spa"
+  ],
+  "author": "pengkobe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pengkobe/web-spa-skeleton/issues"
+  },
+  "homepage": "https://github.com/pengkobe/web-spa-skeleton#readme"
+}

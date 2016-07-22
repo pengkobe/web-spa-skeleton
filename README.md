@@ -1,2 +1,2 @@
 # web-spa-skeleton
-learn summary practice
+learn summary practice for fe architect
