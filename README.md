@@ -11,5 +11,5 @@ https://github.com/laughing-pic-zhu/simple-router
 ## Async Request
 xceptor:https://yanagieiichi.github.io/xceptor/
 
-## Lincense
+## License
 MIT@[yipeng.info](https://yipeng.info)
