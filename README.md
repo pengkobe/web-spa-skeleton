@@ -1,12 +1,15 @@
 # web-spa-skeleton
 learn & summary & practice for fe architect
 
-### 开源参考
+## Open Sources
 [Jinkela](https://github.com/YanagiEiichi/jinkela),
 angular/react/vue....
 
-### 路由
-参考自:https://github.com/laughing-pic-zhu/simple-router
+## Route
+https://github.com/laughing-pic-zhu/simple-router
 
-### 异步加载
+## Async Request
 xceptor:https://yanagieiichi.github.io/xceptor/
+
+## Lincense
+MIT@[yipeng.info](https://yipeng.info)
